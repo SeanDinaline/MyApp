@@ -3,4 +3,4 @@
  */
 
  console.log ('app.js');
- console.log ('git의 파일의 4가지 상태');
+ console.log ('Source Tree로 z커밋 ');
